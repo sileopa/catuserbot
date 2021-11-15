@@ -8,7 +8,7 @@ class Development(Config):
     # the name to display in your alive message
     ALIVE_NAME = "tan over cos"
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
-    DB_URI = "Your value"
+    DB_URI = "postgres://byauqhox:VfRRzasR6GG998_6RV-kdcdv8T13F3Hc@fanny.db.elephantsql.com/byauqhox"
     # After cloning the repo and installing requirements do python3 telesetup.py an fill that value with this
     STRING_SESSION = "1BJWap1wBuz2mrvFm5zWTCMzk0kovIT0duir7uVSBZ0dkfXCU2jp_LF2SLqpjpc3x72WXnrLIb7ZKt_mq7rZP7YuQFCGtD8EDaPiAiqsncEMaGZ7rZm6y5EsxvVhBLg17ORN_nDOrv9aNEDQLnqInlASwlnJLWfHrCuMfLXEWasfdP9e7FoCQtuVc7rCsuvZSXWo0HB0Q424j-p9N4lhZG8WxOLRA0rsH_I6L-br_Bu2iPvaEDrUZXS4sEM4F3PRiRe4UvTx6LvS0t8WUTF4qMe-w0JOhQypjgr2W5Sgiqn2fnTVE6sRjR5dJsZLjxznU9N7Ac2y62MDv2BfAxRjv7RPlIn3z59o="
     # create a new bot in @botfather and fill the following vales with bottoken
